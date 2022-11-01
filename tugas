@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tugas Modul 8</h1>
+    <h2>Program Studi</h2>
+    <ol>
+        <li>Strata Satu (S1)
+        <ol type="I">
+            <dl>
+            <li>informatika</li>
+                <dt>Gelar S.Kom</dt>
+                <dd>Singkatan dari Sarjana Komputer</dd>
+                <br>
+            <li>Sistem Informasi</li> <br>
+                <dt>Gelar S.Kom</dt>
+                <dd>Singkatan dari Sarjana Komputer</dd>
+            </dl>
+        </ol>
+        </li>
+            <br>
+            <li>Diploma Tiga (D3)
+            <ol type="a">
+                <dl>
+                    <li>Sistem Informasi</li>
+                    <dt>Gelar Amd.Kom</dt>
+                    <dd>Singkatan dari ahli Madya Komputer</dd>
+                    <br>
+                <li>Sistem Informasi Akutansi</li><br>
+                    <dt>Gelar Amd.Ak</dt>
+                    <dd>Singkatan dari ahli Madya Akutansi</dd>
+                </dl>
+            </ol>
+            </li>
+        </ol>
+</body>
+</html>
