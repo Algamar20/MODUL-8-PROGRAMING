@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul.a {list-style-type:circle;}
+        ul.b {list-style-type: square;}
+        ol.c {list-style-type: upper-roman;}
+        ol.d {list-style-type: lower-latin;}
+    </style>
+</head>
+<body>
+    <h2>Contoh properti List-Style-type</h2>
+    <p>Contoh Unodered List</p>
+    <ul class="a"><b><u>Minuman Tradisional</u></b>
+         <li>Bandrek</li>
+         <li>Bajigur</li>
+         <li>Jahe anget</li>
+    </ul>
+    <ul class="b"><u><b>Minuman anak muda</b></u>
+        <li>Kopi</li>
+        <li>Teh</li>
+        <li>Sirup</li>
+    </ul>
+
+    <p>contoh odered list</p>
+     <ol class="c"><u><b>Makanan sunda</b></u>
+        <li>Karedok</li>
+        <li>Gado-Gado</li>
+        <li>Rujak</li>
+     </ol>
+     <ol class="d"><u><b>Menu Ikan</b></u>
+        <li>Ikan bakar</li>
+        <li>Ikan gorang</li>
+        <li>Sup ikan</li>
+        <li>Pepes ikan</li>
+        <li>Ikan asap</li>
+     </ol>
+</body>
+</html>
