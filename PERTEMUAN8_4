@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Nested List</h1>
+    <h2>Program Studi</h2>
+    <ol>
+        <li>strata satu
+            <ul>
+                <li>Informatika</li>
+                <li>Sistem Informasi</li>
+            </ul>
+        </li>
+        <li>Diploma Tiga</li>
+        <ul>
+            <li>Sistem Informasi</li>
+            <li>Sistem Informasi Akutansi</li>
+        </ul>
+    </ol>
+</body>
+</html>
