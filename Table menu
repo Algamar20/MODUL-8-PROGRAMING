@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1" width="50%" align="center">
+        <tr align="center">
+            <th>No</th>
+            <th>Mimuman</th>
+            <th>Makanan</th>
+        </tr>
+        <tr align="center">
+            <td>1</td>
+            <td>Minuman Tradisional</td>
+            <td>Tradisional</td>
+        </tr>
+        <tr>
+            <td colspan="1"></td>
+            <td>
+                <ol type="a">
+                   <li>bandrek</li>
+                   <li>bajigur</li>
+                   <li>jahe anget</li>
+                </ol>
+            </td>
+                <td>
+                    <ol type="1">
+                       <li>karedok</li>
+                       <li>Gado-gado</li>
+                       <li>seblak</li>
+                    </ol>
+                </td>
+            <tr align="center">
+                <td>2</td>
+                <td>jus</td>
+                <td>padang</td>
+            </tr>
+            <tr>
+                <td colspan="1"></td>
+                <td><ul>
+                    <ol type="circle">
+                       <li>jeruk</li>
+                       <li>apel</li>
+                       <li>alpuket</li>
+                       <li>durian</li>
+                    </ol></ul>
+                </td>
+                    <td>
+                        <ol type="I">
+                           <li>Rendang</li>
+                           <li>Telor balado</li>
+                           <li>Kepala kakap</li>
+                        </ol>
+                    </td>    
+        </tr>
+    </table>
+</body>
+</html>
