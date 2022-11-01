@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol>
+        <li>HTML</li>
+        <li>Web Design</li>
+        <ul type="circle">
+            <li>Microsorf frontpage</li>
+            <li>Adobe Dreamweaver</li>
+        </ul>
+        <li>Image processing</li>
+        <ul type="circle">
+            <li>Image editing</li>
+        </ul>
+        <ul type="square">
+             <dd><li>Adobe photoshop</li></dd>
+             <dd><li>Corel Photo paint</li></dd>
+             <dd><li>gimp</li></dd>
+        </ul>
+        <ul type="circle">
+             <li>Web image Optimization</li>
+        </ul>
+        <ul type="square">
+            <dd><li>Adobe ImageReady</li></dd>
+        </ul>
+        <li>DataBase</li>
+        <li>Client&Server side Programing</li>
+    </ol>
+</body>
+</html>
